@@ -1,10 +1,10 @@
 # Aplicación de podcast hecha con next y react
 
-[!Home](./.assest-readme/home.PNG)
+![Home](./.assest-readme/home.PNG)
 
-[!Detail](./.assest-readme/posta.PNG)
+![Detail](./.assest-readme/posta.PNG)
 
-[!Player](./.assest-readme/player.PNG)
+![Player](./.assest-readme/player.PNG)
 
 app de podcast obtenidos de la API api.audioboom.com
 
